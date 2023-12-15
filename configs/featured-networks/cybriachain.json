@@ -1,14 +1,28 @@
 [
   {
-		"title": "Mainnet [soon]",
-		"url": "https://www.cybria.io",
-		"group": "Mainnets"
+		"title": "Cybria",
+		"url": "https://cybascan.io",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/Cybria-Chain/frontend-configs/main/configs/network-icons/cybria.svg",
+		"invertIconInDarkMode": true
 	},
 	{
-		"title": "Official Testnet Explorer",
+		"title": "Optimism",
+		"url": "https://optimism.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+	},
+	{
+		"title": "Cybria Testnet",
 		"url": "https://explorer.cybascan.io",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/Cybria-Chain/frontend-configs/main/configs/network-icons/cybria.svg",
 		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Optimism Sepolia",
+		"url": "https://optimism-sepolia.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	}
 ]
