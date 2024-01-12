@@ -41,17 +41,8 @@
                 "url": "https://swap.cybria.io/#/swap?outputCurrency=0x1063181dc986F76F7eA2Dd109e16fc596d0f522A&chain=mainnet"
             },
             {
-                "text": "Bridge[Soon]",
-                "url": "https://www.cybria.io/#Features"
-            }
-        ]
-    },
-    {
-        "title": "About Cybria",
-        "links": [
-            {
-                "text": "About",
-                "url": "https://www.cybria.io/"
+                "text": "Bridge",
+                "url": "https://bridge.cybria.io/"
             }
         ]
     },
