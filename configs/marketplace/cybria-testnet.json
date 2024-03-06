@@ -1,0 +1,15 @@
+[
+  {
+    "author": "Cybria Chain",
+    "id": "cybriaswap",
+    "title": "Cybria Swap",
+    "description": "DonaSwap is the primary multi-chain dex for firechain Networks which sprouted by the DonaSwap (DONA) Token",
+    "shortDescription": "DonaSwap is the primary multi-chain dex for firechain Networks which sprouted by the DonaSwap (DONA) Token",
+    "site": "https://swap.cybria.io",
+    "url": "https://swap.cybria.io",
+    "external": true,
+    "internalWallet": false,
+    "categories": ["Swaps", "Liquid Staking"],
+    "logo": "https://swap.cybria.io"
+  }
+]
